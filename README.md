@@ -6,7 +6,7 @@ To install the dependencies, run \
 ```pip install -r requirements.txt```
 \
 \
-either in a virtual envirnoment or globally. 
+either in a virtual envirnoment or on global. 
 Then run
 \
 \
